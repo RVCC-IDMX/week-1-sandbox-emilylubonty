@@ -1,4 +1,4 @@
-# Week [#] Knowledge Base Learning Sandbox
+# Week [3] Knowledge Base Learning Sandbox
 
 ## Card Topics
 
